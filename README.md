@@ -1,2 +1,2 @@
 # sulu-molecules
-A collection of Lego brick for the CSM Sulul
+A collection of Lego bricks for the [CMS Sulu](https://github.com/sulu)
